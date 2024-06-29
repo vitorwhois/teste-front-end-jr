@@ -53,8 +53,10 @@ Este projeto possui três branches principais:
 - Cabeçalho com navegação e informações da loja.
 - Banner de promoção em destaque.
 - Seção de categorias com ícones e nomes.
-- Seção de produtos relacionados com um carrossel customizado.
 - Modal para exibir detalhes do produto ao clicar.
+- Seções de parceiros e produtos relacionados
+- Carrosel de marcas customizado.
+- Footer com sobre, informações úteis, formas de pagamentos e newsletter
 
 ## Tecnologias Utilizadas
 
