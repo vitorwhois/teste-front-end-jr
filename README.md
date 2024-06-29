@@ -106,7 +106,3 @@ Este projeto possui três branches principais:
 - `npm run build`: Compila o projeto para produção.
 - `npm run preview`: Inicia um servidor local para visualizar a versão de produção.
 
-## Considerações de entrega
-- A data de entrega definida foi 28/06, caso o horario definido seja 12:00 considerar a branch main
-- No caso do horario de encerramento ser a meia noite, considerar a branch feature/posentrega-finalizar-projeto
-
