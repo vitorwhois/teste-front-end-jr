@@ -94,8 +94,7 @@ Este projeto é um teste para a vaga de Front-End Jr na Econverse, desenvolvido 
 - `npm run build`: Compila o projeto para produção.
 - `npm run preview`: Inicia um servidor local para visualizar a versão de produção.
 
-## Considerações
+## Considerações de entrega
+- A data de entrega definida foi 28/06, caso o horario definido seja 12:00 considerar a branch main
+- No caso do horario de encerramento ser a meia noite, considerar a branch feature/posentrega-finalizar-projeto
 
-- Este projeto foi desenvolvido como um teste para a vaga de Front-End Jr na Econverse.
-- O carrossel de produtos e as features foi implementado de forma customizada, sem o uso de bibliotecas externas.
-- Os estilos foram criados com Sass e CSS Modules para garantir modularidade e reutilização.
