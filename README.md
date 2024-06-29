@@ -38,6 +38,16 @@ Segue abaixo as instruções para a execução do teste.
 
 Este projeto é um teste para a vaga de Front-End Jr na Econverse, desenvolvido com React, TypeScript e Sass. O objetivo é criar uma página de e-commerce simples, seguindo um layout fornecido.
 
+## Branches
+
+Este projeto possui três branches principais:
+
+*   **`main`:** Contém a versão final do projeto, a ser considerada para avaliação caso o prazo de entrega seja até 12:00 do dia 28/06.
+
+*   **`feature/posentrega-finalizar-projeto`:** Branch utilizada para finalizar o projeto após a entrega inicial, caso o prazo seja até 23:59 do dia 28/06.
+
+*   **`develop`:** Branch de desenvolvimento, utilizada para adicionar novas funcionalidades e correções de bugs.
+
 ## Funcionalidades
 
 - Cabeçalho com navegação e informações da loja.
