@@ -47,6 +47,12 @@ Este projeto possui três branches principais:
 *   **`feature/posentrega-finalizar-projeto`:** Branch utilizada para finalizar o projeto após a entrega inicial, caso o prazo seja até 23:59 do dia 28/06.
 
 *   **`develop`:** Branch de desenvolvimento, utilizada para adicionar novas funcionalidades e correções de bugs.
+  
+## Deploy
+
+Deploy: https://econverse-two.vercel.app/
+
+O site sera atualizado automaticamente por github action, na vercel, seguindo a branch develop, pois sera utilizada para estudos e atualizações.
 
 ## Funcionalidades
 
